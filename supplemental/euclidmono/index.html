@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+    <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Euclidean monopoles with continuous symmetries | Christopher Lang</title>
+    
+    <link rel="stylesheet" href="https://cjlang.github.io/css/output.css" type="text/css" media="all" />
+    
+    
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+<script>
+  MathJax = {
+    tex: {
+      displayMath: [['\\[', '\\]'], ['$$', '$$']],  
+      inlineMath: [['\\(', '\\)']]                  
+    }
+  };
+</script>
+
+    
+</head>
+
+    <body class="flex flex-col md:flex-row">
+        
+<nav class="w-full md:w-min bg-math-pink">
+    <div class="sticky top-0 md:pt-24 flex flex-wrap flex-row md:flex-col flex-grow">
+        
+        <a class="py-2 px-2 md:px-8 md:text-2xl hover:bg-math-pink-light "
+            href="/">
+            Home
+        </a>
+        
+        <a class="py-2 px-2 md:px-8 md:text-2xl hover:bg-math-pink-light "
+            href="/research/">
+            Research
+        </a>
+        
+        <a class="py-2 px-2 md:px-8 md:text-2xl hover:bg-math-pink-light  bg-white "
+            href="/supplemental/">
+            Supplementals
+        </a>
+        
+        <a class="py-2 px-2 md:px-8 md:text-2xl hover:bg-math-pink-light "
+            href="/teaching/">
+            Teaching
+        </a>
+        
+    </div>
+</nav>
+
+        <main class="w-full min-h-screen flex flex-col">
+            <div class="py-12 px-6 md:px-16 prose max-w-none flex-grow">
+            
+  <h1>Euclidean monopoles with continuous symmetries</h1>
+  <p>Below we list the main results and examples from my joint paper
+“Construction of Nahm data and BPS monopoles with continuous
+symmetries”, including improvements mentioned in my paper “Hyperbolic
+monopoles with continuous symmetries”.</p>
+<h1 id="summary">Summary</h1>
+<p>By linearizing the symmetry equations and using representation
+theory, we identify many novel examples of Euclidean monopoles with
+higher rank structure groups and non-maximal symmetry breaking. In the
+paper, we identify many infinite families of spherically symmetric,
+Euclidean monopoles with varying rank structure groups.</p>
+<h1 id="introduction">Introduction</h1>
+<p>In this paper, we consider <span
+class="math inline">\(\mathrm{SU}(N)\)</span> Euclidean monopoles. Using
+the Nahm transform, such monopoles correspond to Nahm data, solutions to
+the Nahm equations.</p>
+<h2 id="definition">Definition</h2>
+<p><em>A triple <span
+class="math inline">\(\mathcal{T}=(T_1,T_2,T_3)\)</span> of <span
+class="math inline">\(\mathfrak{su}(n)^{\oplus 3}\)</span>-valued
+functions on an open subset of the real line is called <strong>Nahm
+data</strong> if it satisfies the Nahm equations:</em> <span
+class="math display">\[\frac{dT_1}{dt}=[T_2,T_3], \quad
+\frac{dT_2}{dt}=[T_3,T_1], \quad\textrm{and}\quad
+\frac{dT_3}{dt}=[T_1,T_2].\]</span></p>
+<p>We use Nahm data to study Euclidean monopoles with continuous
+symmetries. We start with axial symmetry.</p>
+<h2 id="theorem-3.1">Theorem 3.1</h2>
+<p><em>Let <span class="math inline">\(\mathcal{T}\)</span> be <span
+class="math inline">\(\mathfrak{su}(n)^{\oplus 3}\)</span>-valued Nahm
+data. Then <span class="math inline">\(\mathcal{T}\)</span> is axially
+symmetric about the <span class="math inline">\(z\)</span>-axis if and
+only if there exists <span
+class="math inline">\(Y\in\mathfrak{su}(n)\)</span> such that <span
+class="math display">\[T_1=\left[T_2,Y\right], \quad
+T_2=\left[Y,T_1\right], \quad\textrm{and}\quad
+0=[T_3,Y].\]</span></em></p>
+<p>We then look at spherical symmetry. Let <span
+class="math inline">\(\epsilon\)</span> be the Levi-Civita symbol and
+<span
+class="math inline">\(\lbrace\upsilon_1,\upsilon_2,\upsilon_3\rbrace\subseteq\mathfrak{so}(3)\)</span>
+be the standard basis given by <span class="math inline">\((\upsilon_i)_
+{jk}=-\epsilon_{ijk}\)</span>.</p>
+<h2 id="theorem-4.1">Theorem 4.1</h2>
+<p><em>Let <span class="math inline">\(\mathcal{T}\)</span> be <span
+class="math inline">\(\mathfrak{su}(n)^{\oplus 3}\)</span>-valued Nahm
+data. Then <span class="math inline">\(\mathcal{T}\)</span> is
+spherically symmetric if and only if there exists complex representation
+<span class="math inline">\((\mathbb{C}^n,\rho)\)</span> with <span
+class="math inline">\(\rho\colon\mathfrak{so}(3)\rightarrow\mathfrak{su}(n)\)</span>,
+such that for all <span class="math inline">\(i,j\in\lbrace
+1,2,3\rbrace\)</span>, <span
+class="math display">\[[\rho(\upsilon_i),T_j]=\sum_{k=1}^3\epsilon_{ijk}T_k.\]</span>
+The induced representation is said to generate the spherical symmetry of
+<span class="math inline">\(\mathcal{T}\)</span>.</em></p>
+<p>In the paper, using representation theory, we prove the Structure
+Theorem, which solves the above symmetry equation for any given
+representation. This result makes finding spherically symmetric
+Euclidean monopoles very easy. We list some examples below, though more
+are found in the paper.</p>
+<h2 id="example-1-from-theorem-4.11">Example 1 (from Theorem 4.11)</h2>
+<p><em>The following <span class="math inline">\(\mathcal{T}\)</span>
+corresponds with a spherically symmetric <span
+class="math inline">\(\mathrm{SU}(4)\)</span> monopole. Let <span
+class="math inline">\(f(t):=-\frac{t}{t^2-1}\)</span> and <span
+class="math inline">\(g(t):=\frac{i}{t^2-1}\)</span>. Then let</em>
+<span class="math display">\[T_1:=\begin{bmatrix}0 &amp; 0 &amp; 0 &amp;
+g \\
+0 &amp; 0 &amp; f &amp; 0 \\
+0 &amp; -f &amp; 0 &amp; 0 \\
+g &amp; 0 &amp; 0 &amp; 0\end{bmatrix}, \quad T_2:=\begin{bmatrix}0
+&amp; 0 &amp; f &amp; 0 \\
+0 &amp; 0 &amp; 0 &amp; -g \\
+-f &amp; 0 &amp; 0 &amp; 0 \\
+0 &amp; -g &amp; 0 &amp; 0\end{bmatrix}, \quad\textrm{and}\quad
+T_3:=\begin{bmatrix}0 &amp; f &amp; 0 &amp; 0 \\
+-f &amp; 0 &amp; 0 &amp; 0 \\
+0 &amp; 0 &amp; 0 &amp; g \\
+0 &amp; 0 &amp; g &amp; 0\end{bmatrix}.\]</span> <em>This monopole was
+generated from the representation <span
+class="math inline">\((\mathbb{C}^3,\mathrm{ad})\oplus
+(\mathbb{C},0)\)</span>, which is the <span
+class="math inline">\(\underline{3}\oplus\underline{1}\)</span>
+representation.</em></p>
+<p><em>Along any ray emanating from the origin, up to gauge, the
+asymptotic expansion of the Higgs field of the corresponding monopole
+<span class="math inline">\(\Phi\)</span> is given by <span
+class="math display">\[\Phi(r):=i\cdot\mathrm{diag}(1,1,-1,-1)-\frac{i}{2r}\mathrm{diag}(2,2,-2,-2)+\mathcal{O}\left(r^{-2}\right).\]</span>
+Thus, the monopole topologically decomposes the trivial <span
+class="math inline">\(\mathrm{SU}(4)\)</span> bundle over the “sphere at
+infinity” into two, nontrivial <span
+class="math inline">\(\mathrm{U}(2)\)</span> bundles, both of which are
+further decomposed holomorphically into line bundles with Chern numbers
+<span class="math inline">\(\pm 2\)</span>.</em></p>
+<p><em>Below, we see the norm squared of the Higgs field as well as the
+energy density of the monopole. From the figure, we see that the Higgs
+field only vanishes at the origin and the monopole looks like a
+point-particle, in that the energy density has a global maximum at the
+origin.</em></p>
+<figure>
+<img src="/PlotSU(4).png"
+alt="The norm squared of the Higgs field and the energy density for the spherically symmetric \mathrm{SU}(4) Euclidean monopole. The solid line is \varepsilon with the right vertical axis and the dashed line is |\Phi|^2 with the left vertical axis." />
+<figcaption aria-hidden="true"><em>The norm squared of the Higgs field
+and the energy density for the spherically symmetric <span
+class="math inline">\(\mathrm{SU}(4)\)</span> Euclidean monopole. The
+solid line is <span class="math inline">\(\varepsilon\)</span> with the
+right vertical axis and the dashed line is <span
+class="math inline">\(|\Phi|^2\)</span> with the left vertical
+axis.</em></figcaption>
+</figure>
+<h2 id="example-2-from-theorem-4.13">Example 2 (from Theorem 4.13)</h2>
+<p><em>The following <span class="math inline">\(\mathcal{T}\)</span>
+corresponds with a spherically symmetric <span
+class="math inline">\(\mathrm{SU}(5)\)</span> monopole. Let <span
+class="math inline">\(f^+(t):=-\frac{3t+1}{3(t^2-1)}\)</span>, <span
+class="math inline">\(f^-(t):=-\frac{3t+5}{3(t^2-1)}\)</span>, and <span
+class="math inline">\(g(t):=\frac{2}{\sqrt{3}(t^2-1)}\)</span>. Then
+let</em> <span
+class="math display">\[\begin{aligned}T_1&amp;:=\begin{bmatrix}
+\frac{3i}{2}f^+ &amp; 0 &amp; 0 &amp; 0 &amp; 0 &amp; 0 \\
+0 &amp; \frac{i}{2}f^+ &amp; 0 &amp; 0 &amp; \sqrt{\frac{2}{3}}g &amp; 0
+\\
+0 &amp; 0 &amp; -\frac{i}{2}f^+ &amp; 0 &amp; 0 &amp;
+\sqrt{\frac{2}{3}}g \\
+0 &amp; 0 &amp; 0 &amp; -\frac{3i}{2}f^+ &amp; 0 &amp; 0 \\
+0 &amp; -\sqrt{\frac{2}{3}}g &amp; 0 &amp; 0 &amp; \frac{i}{2}f^- &amp;
+0 \\
+0 &amp; 0 &amp; -\sqrt{\frac{2}{3}}g &amp; 0 &amp; 0 &amp;
+-\frac{i}{2}f^-
+\end{bmatrix}, \\\
+T_2&amp;:=\begin{bmatrix}
+0 &amp; \frac{\sqrt{3}}{2}f^+ &amp; 0 &amp; 0 &amp; \frac{i}{\sqrt{2}}g
+&amp; 0 \\
+-\frac{\sqrt{3}}{2}f^+ &amp; 0 &amp; f^+ &amp; 0 &amp; 0 &amp;
+\frac{i}{\sqrt{6}}g \\
+0 &amp; -f^+ &amp; 0 &amp; \frac{\sqrt{3}}{2}f^+ &amp;
+\frac{i}{\sqrt{6}}g &amp; 0 \\
+0 &amp; 0 &amp; -\frac{\sqrt{3}}{2}f^+ &amp; 0 &amp; 0 &amp;
+\frac{i}{\sqrt{2}}g \\
+\frac{i}{\sqrt{2}}g &amp; 0 &amp; \frac{i}{\sqrt{6}}g &amp; 0 &amp; 0
+&amp; \frac{1}{2}f^- \\
+0 &amp; \frac{i}{\sqrt{6}}g &amp; 0 &amp; \frac{i}{\sqrt{2}}g &amp;
+-\frac{1}{2}f^- &amp; 0
+\end{bmatrix}, \quad\textrm{and}\\\
+T_3&amp;:=\begin{bmatrix}
+0 &amp; \frac{i\sqrt{3}}{2}f^+ &amp; 0 &amp; 0 &amp;
+-\frac{1}{\sqrt{2}}g &amp; 0 \\
+\frac{i\sqrt{3}}{2}f^+ &amp; 0 &amp; if^+ &amp; 0 &amp; 0 &amp;
+-\frac{1}{\sqrt{6}}g \\
+0 &amp; if^+ &amp; 0 &amp; \frac{i\sqrt{3}}{2}f^+ &amp;
+\frac{1}{\sqrt{6}}g &amp; 0 \\
+0 &amp; 0 &amp; \frac{i\sqrt{3}}{2}f^+ &amp; 0 &amp; 0 &amp;
+\frac{1}{\sqrt{2}}g \\
+\frac{1}{\sqrt{2}}g &amp; 0 &amp; -\frac{1}{\sqrt{6}}g &amp; 0 &amp; 0
+&amp; \frac{i}{2}f^- \\
+0 &amp; \frac{1}{\sqrt{6}}g &amp; 0 &amp; -\frac{1}{\sqrt{2}}g &amp;
+\frac{i}{2}f^- &amp; 0
+\end{bmatrix}.
+\end{aligned}\]</span> <em>This monopole was generated from the <span
+class="math inline">\(\underline{4}\oplus\underline{2}\)</span>
+representation.</em></p>
+<p><em>Along any ray emanating from the origin, up to gauge, the
+asymptotic expansion of the Higgs field of the corresponding monopole
+<span class="math inline">\(\Phi\)</span> is given by <span
+class="math display">\[\Phi(r):=i\cdot\mathrm{diag}\left(\frac{4}{5},\frac{4}{5},\frac{4}{5},-\frac{6}{5},-\frac{6}{5}\right)-\frac{i}{2r}\mathrm{diag}(2,2,2,-3,-3)+\mathcal{O}\left(r^{-2}\right).\]</span>
+Thus, the monopole topologically decomposes the trivial <span
+class="math inline">\(\mathrm{SU}(5)\)</span> bundle over the “sphere at
+infinity” into the direct sum of a <span
+class="math inline">\(\mathrm{U}(3)\)</span> and a <span
+class="math inline">\(\mathrm{U}(2)\)</span> bundle, both of which are
+further decomposed holomorphically into line bundles with Chern numbers
+<span class="math inline">\(2\)</span> and <span
+class="math inline">\(-3\)</span>, respectively.</em></p>
+<p><em>Below, we see the norm squared of the Higgs field as well as the
+energy density of the monopole. From the figure, we see that the Higgs
+field only vanishes at the origin and the monopole looks like a
+point-particle, in that the energy density has a global maximum at the
+origin.</em></p>
+<figure>
+<img src="/PlotSU(5).png"
+alt="The norm squared of the Higgs field and the energy density for the spherically symmetric \mathrm{SU}(5) Euclidean monopole. The solid line is \varepsilon with the right vertical axis and the dashed line is |\Phi|^2 with the left vertical axis." />
+<figcaption aria-hidden="true"><em>The norm squared of the Higgs field
+and the energy density for the spherically symmetric <span
+class="math inline">\(\mathrm{SU}(5)\)</span> Euclidean monopole. The
+solid line is <span class="math inline">\(\varepsilon\)</span> with the
+right vertical axis and the dashed line is <span
+class="math inline">\(|\Phi|^2\)</span> with the left vertical
+axis.</em></figcaption>
+</figure>
+
+
+            </div>
+            <footer>
+    <hr />
+    <div class="flex content-center pt-1 px-2">
+        <div class="my-auto text-sm md:text-base">
+            <h5 class="font-semibold">
+                Christopher Lang
+            </h5>
+            <a href="mailto:cjlang@uwaterloo.ca">cjlang@uwaterloo.ca</a>
+        </div>
+    </div>
+</footer>
+
+        </main>
+    </body>
+</html>

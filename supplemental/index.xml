@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supplementals on Christopher Lang</title>
+    <link>https://cjlang.github.io/supplemental/</link>
+    <description>Recent content in Supplementals on Christopher Lang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2024 11:43:39 -0230</lastBuildDate>
+    <atom:link href="https://cjlang.github.io/supplemental/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Representation theory of Lie algebras</title>
+      <link>https://cjlang.github.io/supplemental/reptheory/</link>
+      <pubDate>Fri, 30 Aug 2024 01:43:39 -0230</pubDate>
+      <guid>https://cjlang.github.io/supplemental/reptheory/</guid>
+      <description>In the following documents, we outline some lesser-known results from the representation theory of Lie algebras. Together, these documents constitute Appendix D of my thesis. However, they are separated here for readers interested in individual topics and for ease of reading.&#xA;Real and quaternionic representations&#xA;Representations and their duals Representations of direct sums (focusing on representations of \(\mathfrak{so}(4)\simeq\mathfrak{sp}(1)\oplus\mathfrak{sp}(1)\)) </description>
+    </item>
+    <item>
+      <title>Symmetry breaking of monopoles</title>
+      <link>https://cjlang.github.io/supplemental/symbreak/</link>
+      <pubDate>Wed, 28 Aug 2024 07:43:39 -0230</pubDate>
+      <guid>https://cjlang.github.io/supplemental/symbreak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Euclidean monopoles with continuous symmetries</title>
+      <link>https://cjlang.github.io/supplemental/euclidmono/</link>
+      <pubDate>Fri, 16 Aug 2024 07:43:39 -0230</pubDate>
+      <guid>https://cjlang.github.io/supplemental/euclidmono/</guid>
+      <description>Below we list the main results and examples from my joint paper “Construction of Nahm data and BPS monopoles with continuous symmetries”, including improvements mentioned in my paper “Hyperbolic monopoles with continuous symmetries”.&#xA;Summary By linearizing the symmetry equations and using representation theory, we identify many novel examples of Euclidean monopoles with higher rank structure groups and non-maximal symmetry breaking. In the paper, we identify many infinite families of spherically symmetric, Euclidean monopoles with varying rank structure groups.</description>
+    </item>
+    <item>
+      <title>Hyperbolic monopoles with continuous symmetries</title>
+      <link>https://cjlang.github.io/supplemental/hypermono/</link>
+      <pubDate>Thu, 15 Aug 2024 11:43:39 -0230</pubDate>
+      <guid>https://cjlang.github.io/supplemental/hypermono/</guid>
+      <description>Below we list the main results and examples from my paper “Hyperbolic monopoles with continuous symmetries”.&#xA;Summary By linearizing the symmetry equations and using representation theory, we identify many novel examples of hyperbolic monopoles with higher rank structure groups. In fact, in the paper, we identify many infinite families of spherically symmetric, hyperbolic monopoles with varying rank structure groups. These monopoles have interesting properties; in Example 2 below, we identify a spherically symmetric \(\mathrm{Sp}(4)\) hyperbolic monopole that vanishes nowhere.</description>
+    </item>
+    <item>
+      <title>Instantons with continuous conformal symmetries</title>
+      <link>https://cjlang.github.io/supplemental/instantons/</link>
+      <pubDate>Wed, 14 Aug 2024 10:43:39 -0230</pubDate>
+      <guid>https://cjlang.github.io/supplemental/instantons/</guid>
+      <description>Below we list the main results and examples from the third (main) chapter of my thesis: “Instantons and their derivatives”.&#xA;Summary We classify the various continuous symmetries that an instanton can possess. We then linearize the symmetry equation for each continuous symmetry. By using representation theory, we can solve these linear equations given any representation. This makes the process of finding novel examples of instantons with higher rank structure groups much easier.</description>
+    </item>
+    <item>
+      <title>Fixed points on moduli spaces</title>
+      <link>https://cjlang.github.io/supplemental/modulispacethm/</link>
+      <pubDate>Tue, 30 Jul 2024 07:43:39 -0230</pubDate>
+      <guid>https://cjlang.github.io/supplemental/modulispacethm/</guid>
+      <description>Below we outline the main theorem used in my thesis found in Section 1.1: “General background and main theorem”. This result allows us to study Euclidean monopoles, hyperbolic monopoles, and instantons with continuous symmetries. These applications comprise the majority of my thesis.&#xA;Summary We study invariant objects, whose equivalence class in the moduli space is fixed under the action of a symmetry group. In particular, for any continuous symmetry, we obtain a linear equation that determines if a gauge theoretic object possesses that symmetry.</description>
+    </item>
+  </channel>
+</rss>
