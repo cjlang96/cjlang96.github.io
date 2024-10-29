@@ -2,20 +2,24 @@
 <link rel=stylesheet href=/css/output.css type=text/css media=all><script id=MathJax-script async src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js></script><script>MathJax={tex:{displayMath:[["\\[","\\]"],["$$","$$"]],inlineMath:[["\\(","\\)"]]}}</script></head><body class="flex flex-col md:flex-row"><nav class="w-full md:w-min bg-math-pink"><div class="sticky top-0 md:pt-24 flex flex-wrap flex-row md:flex-col flex-grow"><a class="py-2 px-2 md:px-8 md:text-2xl hover:bg-math-pink-light" href=/>Home
 </a><a class="py-2 px-2 md:px-8 md:text-2xl hover:bg-math-pink-light bg-white" href=/ancillaries/>Ancillaries
 </a><a class="py-2 px-2 md:px-8 md:text-2xl hover:bg-math-pink-light" href=/research/>Research
-</a><a class="py-2 px-2 md:px-8 md:text-2xl hover:bg-math-pink-light" href=/teaching/>Teaching</a></div></nav><main class="w-full min-h-screen flex flex-col"><div class="py-12 px-6 md:px-16 prose max-w-none flex-grow"><h1>Fixed points on moduli spaces</h1><p>Below we outline the main theorem used in my <a href=https://hdl.handle.net/10012/20906>thesis</a>, found in Section
-1.1: “General background and main theorem”. In particular, this result
-allows us to study <a href=/ancillaries/euclidmono/>Euclidean
+</a><a class="py-2 px-2 md:px-8 md:text-2xl hover:bg-math-pink-light" href=/teaching/>Teaching</a></div></nav><main class="w-full min-h-screen flex flex-col"><div class="py-12 px-6 md:px-16 prose max-w-none flex-grow"><h1>Fixed points on moduli spaces</h1><p>Below we list the main results and examples from my paper “Fixed
+points of Lie group actions on moduli spaces”. In particular, the main
+theorem allows us to study <a href=/ancillaries/euclidmono/>Euclidean
 monopoles</a>, <a href=/ancillaries/hypermono/>hyperbolic
 monopoles</a>, and <a href=/ancillaries/instantons/>instantons</a>
-with continuous symmetries. These applications comprise the majority of
-my <a href=https://hdl.handle.net/10012/20906>thesis</a>. I discussed
-this result during my talk at the <a href="https://www.youtube.com/watch?v=a5dZKpBPkxQ&">Geometric Models
-of Matter Conference</a> in 2024.</p><h1 id=summary>Summary</h1><p>We study invariant objects, whose equivalence class in the moduli
-space is fixed under the action of a symmetry group. In particular, for
-any continuous symmetry, we obtain a linear equation that determines if
-a gauge theoretic object possesses that symmetry. Not only does this
-result allow us to easily compute examples of these objects, it also
-provides a framework for classifying them.</p><h1 id=introduction>Introduction</h1><p>Gauge theory involves two ingredients: objects and a gauge group
+with continuous symmetries. However, it is a general result that can
+also be used outside of gauge theory to easily find fixed points of Lie
+group actions on moduli spaces. These applications comprise the majority
+of my <a href=https://hdl.handle.net/10012/20906>thesis</a>. I
+discussed this result during my talk at the <a href="https://www.youtube.com/watch?v=a5dZKpBPkxQ&">Geometric Models
+of Matter Conference</a> in 2024.</p><h1 id=summary>Summary</h1><p>We examine Lie group actions on moduli spaces and their fixed points.
+We show that when the Lie group is compact and connected, we obtain a
+linear constraint and the problem is one of representation theory. This
+greatly simplifies the search for fixed points. We obtain a similar
+result when the Lie group is one-dimensional. For compact and
+disconnected Lie groups, we show that we need only additionally check a
+finite number of points. Finally, we show that the subgroup fixing an
+equivalence class in the moduli space is a compact Lie subgroup.</p><h1 id=introduction>Introduction</h1><p>Gauge theory involves two ingredients: objects and a gauge group
 acting on the objects. Physically, we only care about objects up to the
 gauge action. Denoting the space of objects by <span class="math inline">\(\mathcal{X}\)</span> and the gauge group by <span class="math inline">\(\mathcal{G},\)</span> we only care about the
 moduli space <span class="math inline">\(\mathcal{X}/\mathcal{G}.\)</span> For instance, in
@@ -41,14 +45,28 @@ symmetry action descends to an action on the moduli space.</p><p>We are interest
 for all <span class="math inline">\(s\in \mathcal{S},\)</span> there is
 some <span class="math inline">\(g\in\mathcal{G}\)</span> such that
 <span class="math inline">\(s.A=g.A.\)</span> That is, physically, the
-object is unaffected by the symmetry action.</p><p>Let <span class="math inline">\(M\)</span> be a smooth manifold and
+object is unaffected by the symmetry action.</p><h2 id=proposition-2.1>Proposition 2.1</h2><p><em>Let <span class="math inline">\(\mathcal{X}\)</span> be a smooth
+manifold and let <span class="math inline">\(\mathcal{G}\)</span> as
+well as <span class="math inline">\(\mathcal{S}\)</span> be Lie groups.
+Denote the connected component of <span class="math inline">\(\mathcal{S}\)</span> containing the identity by
+<span class="math inline">\(\mathcal{S}_0\subseteq\mathcal{S}\)</span>.
+Suppose that <span class="math inline">\(\mathcal{G}\)</span> and <span class="math inline">\(\mathcal{S}\)</span> act smoothly on <span class="math inline">\(\mathcal{X}\)</span> and the two actions commute.
+We have that <span class="math inline">\([A]\in\mathcal{X}/\mathcal{G}\)</span> is fixed by
+<span class="math inline">\(\mathcal{S}\)</span> if and only if <span class="math inline">\([A]\)</span> is fixed by some element in each
+connected component of <span class="math inline">\(\mathcal{S}\)</span>
+and <span class="math inline">\([A]\)</span> is fixed by <span class="math inline">\(\mathcal{S}_0\)</span>.</em></p><p>If the symmetry group <span class="math inline">\(\mathcal{S}\)</span> is compact, then it has a
+finite number of connected components. As such, if <span class="math inline">\(\mathcal{S}\)</span> is compact, then we need only
+check that a point is fixed by <span class="math inline">\(\mathcal{S}_0\)</span> and a finite number of
+additional points. In this case, <span class="math inline">\(\mathcal{S}_0\)</span> is a compact and connected
+Lie group, so we focus on the case that the symmetry group is compact
+and connected.</p><p>Let <span class="math inline">\(M\)</span> be a smooth manifold and
 <span class="math inline">\(G\)</span> a Lie group acting smoothly on
 <span class="math inline">\(M\)</span>. The smoothness of the Lie group
 actions grants Lie algebra actions. If we have a right (left) group
 action, we obtain a Lie algebra (anti-)homomorphism taking value in
 <span class="math inline">\(\mathfrak{X}(M).\)</span> Given <span class="math inline">\(x\in\mathrm{Lie}(G)\)</span> and <span class="math inline">\(p\in M,\)</span> the Lie algebra action is given
 by <span class="math inline">\(x.p:=\frac{d}{dt}\Big|_{t=0}\mathrm{exp}(tx).p\in
-T_pM.\)</span></p><h2 id=theorem-1.1.1>Theorem 1.1.1</h2><p><em>Let <span class="math inline">\(\mathcal{X}\)</span> be a smooth
+T_pM.\)</span></p><h2 id=theorem-2.2>Theorem 2.2</h2><p><em>Let <span class="math inline">\(\mathcal{X}\)</span> be a smooth
 manifold, <span class="math inline">\(\mathcal{G}\)</span> a compact Lie
 group, and <span class="math inline">\(\mathcal{S}\)</span> a compact,
 connected Lie group. Suppose that <span class="math inline">\(\mathcal{G}\)</span> and <span class="math inline">\(\mathcal{S}\)</span> act smoothly on <span class="math inline">\(\mathcal{X}\)</span> on the left and the two
@@ -56,11 +74,41 @@ actions commute. We have that <span class="math inline">\([A]\in\mathcal{X}/\mat
 <span class="math inline">\(\mathcal{S}\)</span> if and only if there is
 a Lie algebra homomorphism <span class="math inline">\(\rho\colon\mathrm{Lie}(\mathcal{S})\rightarrow\mathrm{Lie}(\mathcal{G})\)</span>
 such that, for all <span class="math inline">\(x\in\mathrm{Lie}(\mathcal{S}),\)</span> <span class="math display">\[x.A+\rho(x).A=0.\]</span></em></p><p>Note that <span class="math inline">\(x.A\)</span> and <span class="math inline">\(\rho(x).A\)</span> both belong to <span class="math inline">\(T_A\mathcal{X}\)</span> and thus can be added
-together to obtain zero. Similar results to the above hold if we use
-right group actions or a mixture.</p><p>This result tells us that if we satisfy the proper technical
+together to obtain zero. Note that nothing changes in the above equation
+if we have two right group actions. However, if we have a mix of left
+and right group actions, then the equation becomes <span class="math inline">\(x.A-\rho(x).A=0\)</span>.</p><p>This result tells us that if we satisfy the proper technical
 conditions, then we can differentiate the equations of symmetry,
 obtaining linear equations. Thus, we can use linear algebra to find
 every example of our symmetric objects. As compact Lie groups can be
 realized as matrix Lie groups, the Lie algebra homomorphisms give us
 representations of Lie algebras, so we reduce the problem to the realm
-of representation theory.</p></div><footer><hr><div class="flex content-center pt-1 px-2"><div class="my-auto text-sm md:text-base"><h5 class=font-semibold>Christopher Lang</h5><a href=mailto:cjlang@uwaterloo.ca>cjlang@uwaterloo.ca</a></div></div></footer></main></body></html>
+of representation theory.</p><p>When <span class="math inline">\(\mathcal{S}\)</span> is
+one-dimensional, using a similar method, we obtain the same result even
+when we no longer have compactness.</p><h2 id=proposition-2.6>Proposition 2.6</h2><p><em>Let <span class="math inline">\(\mathcal{X}\)</span> be a smooth
+manifold, <span class="math inline">\(\mathcal{G}\)</span> a Lie group,
+and <span class="math inline">\(\mathcal{S}\)</span> a connected,
+one-dimensional Lie group (isomorphic to either <span class="math inline">\(S^1\)</span> or <span class="math inline">\(\mathbb{R}\)</span>). Suppose that <span class="math inline">\(\mathcal{G}\)</span> and <span class="math inline">\(\mathcal{S}\)</span> act smoothly on <span class="math inline">\(\mathcal{X}\)</span> on the left and the two
+actions commute. We have that <span class="math inline">\([A]\in\mathcal{X}/\mathcal{G}\)</span> is fixed by
+<span class="math inline">\(\mathcal{S}\)</span> if and only if there is
+some <span class="math inline">\(\rho\in\mathrm{Lie}(\mathcal{G})\)</span> such
+that, for all <span class="math inline">\(t\in\mathbb{R}\)</span>, <span class="math display">\[t.A+t\rho.A=0.\]</span></em></p><p>Armed with Theorem 2.2, we can examine objects that are fixed by
+different symmetries. It turns out that we can ignore certain
+symmetries, as we can investigate their closure instead.</p><h2 id=proposition-2.9>Proposition 2.9</h2><p><em>Let <span class="math inline">\(\mathcal{X}\)</span> be a smooth
+manifold, <span class="math inline">\(\mathcal{G}\)</span> a compact Lie
+group, and <span class="math inline">\(\mathcal{S}\)</span> a Lie group.
+Suppose that <span class="math inline">\(\mathcal{G}\)</span> and <span class="math inline">\(\mathcal{S}\)</span> act on <span class="math inline">\(\mathcal{X}\)</span> and their actions commute.
+For <span class="math inline">\(A\in\mathcal{X}\)</span>, let <span class="math inline">\(H_A:=\{s\in\mathcal{S}\mid s.[A]=[A]\}\)</span>.
+Then <span class="math inline">\(H_A\)</span> is a closed Lie subgroup
+of <span class="math inline">\(\mathcal{S}\)</span>. Moreover, if <span class="math inline">\(\mathcal{S}\)</span> is compact, then <span class="math inline">\(H_A\)</span> is as well.</em></p><p>As an example of the importance of Proposition 2.9, suppose we look
+at objects symmetric under different connected Lie subgroups of <span class="math inline">\(S^1\times S^1\)</span>. Excluding the trivial
+subgroup, we have <span class="math inline">\(R_t:=\{(e^{i\theta},e^{it\theta})\mid
+\theta\in\mathbb{R}\}\)</span>, for all <span class="math inline">\(t\in\mathbb{R}\)</span>, <span class="math inline">\(R_\infty:=\{1\}\times S^1\)</span>, and <span class="math inline">\(S^1\times S^1\)</span>.</p><p>When <span class="math inline">\(t\in\mathbb{Q}\)</span>, <span class="math inline">\(R_t\simeq S^1\)</span>. Otherwise, <span class="math inline">\(R_t\simeq \mathbb{R}\)</span>, which is a problem
+as <span class="math inline">\(\mathbb{R}\)</span> is not compact.
+Proposition 2.6 allows us to study objects symmetric under <span class="math inline">\(R_t\)</span>, as <span class="math inline">\(\mathbb{R}\)</span> is one-dimensional. However,
+Proposition 2.9 tells us that we can ignore these symmetries in our
+case. Indeed, when <span class="math inline">\(t\notin\mathbb{Q}\)</span>, <span class="math inline">\(R_t\)</span> is dense in <span class="math inline">\(S^1\times S^1\)</span>, so an element in the
+moduli space is fixed by <span class="math inline">\(R_t\)</span> if and
+only if it is fixed by <span class="math inline">\(S^1\times
+S^1\)</span>. Thus, we are only left with compact and connected Lie
+groups for symmetry groups, exactly those we can study using Theorem
+2.2.</p></div><footer><hr><div class="flex content-center pt-1 px-2"><div class="my-auto text-sm md:text-base"><h5 class=font-semibold>Christopher Lang</h5><a href=mailto:cjlang@uwaterloo.ca>cjlang@uwaterloo.ca</a></div></div></footer></main></body></html>
