@@ -101,12 +101,17 @@ monopoles with continuous symmetries”, J. Geom. Phys. 203, 105258
 href="https://doi.org/10.1016/j.geomphys.2024.105258">DOI&lt;/a>, &lt;a
 href="https://arxiv.org/abs/2310.10626">arXiv&lt;/a>, &lt;a
 href="https://cjlang.github.io/ancillaries/hypermono/">Main results&lt;/a>&lt;/h3>
-&lt;h4 id="abstract">Abstract&lt;/h4>
-&lt;p>We provide a framework to classify hyperbolic monopoles with
-continuous symmetries and find a Structure Theorem, greatly simplifying
-the construction of all those with spherically symmetry. In doing so, we
+&lt;details>
+&lt;summary>
+&lt;strong>Abstract&lt;/strong>
+&lt;/summary>
+&lt;p>
+We provide a framework to classify hyperbolic monopoles with continuous
+symmetries and find a Structure Theorem, greatly simplifying the
+construction of all those with spherically symmetry. In doing so, we
 reduce the problem of finding spherically symmetric hyperbolic monopoles
 to a problem in representation theory. Additionally, we determine
 constraints on the structure groups of such monopoles. Using these
 results, we construct novel spherically symmetric &lt;span
-class="math inline">\(\mathrm{Sp}(n)\)&lt;/span> hyperbolic monopoles.&lt;/p></description></item></channel></rss>
+class="math inline">\(\mathrm{Sp}(n)\)&lt;/span> hyperbolic monopoles.
+&lt;/p></description></item></channel></rss>
