@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Christopher Lang</title><link>https://cjlang.github.io/</link><description>Recent content in Home on Christopher Lang</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 30 Aug 2024 01:43:39 -0230</lastBuildDate><atom:link href="https://cjlang.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Fixed points on moduli spaces</title><link>https://cjlang.github.io/ancillaries/modulispacethm/</link><pubDate>Tue, 30 Jul 2024 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/ancillaries/modulispacethm/</guid><description>&lt;p>Below we list the main results and examples from my paper “Fixed
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Christopher Lang</title><link>https://cjlang.github.io/</link><description>Recent content in Home on Christopher Lang</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 23 Aug 2025 07:43:39 -0230</lastBuildDate><atom:link href="https://cjlang.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Memorial Mathematics Working Seminar</title><link>https://cjlang.github.io/seminars/workingseminar/</link><pubDate>Sat, 23 Aug 2025 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/seminars/workingseminar/</guid><description>&lt;p>&lt;strong>Fall Schedule&lt;/strong>: 2–3 pm in HH 3013&lt;/p>
+&lt;table>
+&lt;colgroup>
+&lt;col style="width: 11%" />
+&lt;col style="width: 88%" />
+&lt;/colgroup>
+&lt;tbody>
+&lt;tr class="odd">
+&lt;td>&lt;strong>September 30th&lt;/strong>&lt;/td>
+&lt;td style="text-align: left;">&lt;strong>Christopher Lang - An introduction
+to topological recursion&lt;/strong>&lt;br />
+Topological recursion is a construction in algebraic geometry that
+recursively computes invariants of spectral curves. It has applications
+to enumerative geometry, string theory, knot theory, mathematical
+physics, and random matrix theory, among others. I will introduce some
+of the main concepts of this construction.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Fixed points on moduli spaces</title><link>https://cjlang.github.io/ancillaries/modulispacethm/</link><pubDate>Tue, 30 Jul 2024 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/ancillaries/modulispacethm/</guid><description>&lt;p>Below we list the main results and examples from my paper “Fixed
 points of Lie group actions on moduli spaces: A tale of two actions”.
 Theorem 1.1 originally appeared in my &lt;a
 href="https://hdl.handle.net/10012/20906">thesis&lt;/a> as Theorem 1.1.1. I
