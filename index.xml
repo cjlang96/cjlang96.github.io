@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Christopher Lang</title><link>https://cjlang.github.io/</link><description>Recent content in Home on Christopher Lang</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 23 Aug 2025 07:43:39 -0230</lastBuildDate><atom:link href="https://cjlang.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Memorial Mathematics Working Seminar</title><link>https://cjlang.github.io/seminars/workingseminar/</link><pubDate>Sat, 23 Aug 2025 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/seminars/workingseminar/</guid><description>&lt;p>&lt;strong>Fall Schedule&lt;/strong>: 2–3 pm in HH 3013&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Christopher Lang</title><link>https://cjlang.github.io/</link><description>Recent content in Home on Christopher Lang</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 23 Aug 2025 07:43:39 -0230</lastBuildDate><atom:link href="https://cjlang.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Memorial Mathematics Working Seminar</title><link>https://cjlang.github.io/seminars/workingseminar/</link><pubDate>Sat, 23 Aug 2025 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/seminars/workingseminar/</guid><description>&lt;p>&lt;strong>Fall Schedule&lt;/strong>: 1–2 pm in HH 3013&lt;/p>
 &lt;table>
 &lt;colgroup>
 &lt;col style="width: 11%" />
@@ -22,8 +22,15 @@ physics, and random matrix theory, among others. In this talk, I will
 introduce some of the components of this construction.&lt;/td>
 &lt;/tr>
 &lt;tr class="odd">
-&lt;td>&lt;strong>October 14th&lt;/strong>&lt;/td>
-&lt;td style="text-align: left;">&lt;strong>Tom Baird - TBD&lt;/strong>&lt;/td>
+&lt;td>&lt;strong>October 16th&lt;/strong>&lt;/td>
+&lt;td style="text-align: left;">&lt;strong>Tom Baird - An introduction to
+Cohomological Field Theories&lt;/strong>&lt;br />
+In this expository lecture, I will give an introduction to cohomological
+field theories in the sense of Kontsevich and Manin. Along the way, we
+will learn about moduli spaces of complex curves, Gromov-Witten theory,
+and 2D topological field theories. I hope to make my presentation
+accessible to anyone acquainted with manifolds and cohomology (singular
+or de Rham).&lt;/td>
 &lt;/tr>
 &lt;tr class="even">
 &lt;td>&lt;strong>October 21th&lt;/strong>&lt;/td>
@@ -39,7 +46,7 @@ TBD&lt;/strong>&lt;/td>
 &lt;td style="text-align: left;">&lt;strong>Graham Cox - TBD&lt;/strong>&lt;/td>
 &lt;/tr>
 &lt;tr class="odd">
-&lt;td>&lt;strong>November 11th&lt;/strong>&lt;/td>
+&lt;td>&lt;strong>November 12th&lt;/strong>&lt;/td>
 &lt;td style="text-align: left;">&lt;strong>Graham Cox - TBD&lt;/strong>&lt;/td>
 &lt;/tr>
 &lt;tr class="even">
@@ -153,23 +160,29 @@ moduli spaces, and gauge theory—specifically instantons and
 monopoles.&lt;/p>
 &lt;h2 id="published-papers">Published Papers&lt;/h2>
 &lt;h3
-id="hyperbolic-monopoles-with-continuous-symmetries-j.-geom.-phys.-203-105258-2024.-doi-arxiv-main-results">“Hyperbolic
-monopoles with continuous symmetries”, J. Geom. Phys. 203, 105258
-(2024). &lt;a
-href="https://doi.org/10.1016/j.geomphys.2024.105258">DOI&lt;/a>, &lt;a
-href="https://arxiv.org/abs/2310.10626">arXiv&lt;/a>, &lt;a
-href="https://cjlang.github.io/ancillaries/hypermono/">Main results&lt;/a>&lt;/h3>
+id="instantons-with-continuous-conformal-symmetries-hyperbolic-and-singular-monopoles-and-more-oh-my-j.-geom.-phys.-105670-2025.-doi-arxiv-main-results">“Instantons
+with continuous conformal symmetries: Hyperbolic and singular monopoles
+and more, oh my!”, J. Geom. Phys. 105670 (2025). &lt;a
+href="http://dx.doi.org/10.1016/j.geomphys.2025.105670">DOI&lt;/a>, &lt;a
+href="https://arxiv.org/abs/2501.07406">arXiv&lt;/a>, &lt;a
+href="https://cjlang.github.io/ancillaries/instantons/">Main results&lt;/a>&lt;/h3>
 &lt;details>
 &lt;summary>
 &lt;strong>Abstract&lt;/strong>
 &lt;/summary>
 &lt;p>
-We provide a framework to classify hyperbolic monopoles with continuous
-symmetries and find a Structure Theorem, greatly simplifying the
-construction of all those with spherically symmetry. In doing so, we
-reduce the problem of finding spherically symmetric hyperbolic monopoles
-to a problem in representation theory. Additionally, we determine
-constraints on the structure groups of such monopoles. Using these
-results, we construct novel spherically symmetric &lt;span
-class="math inline">\(\mathrm{Sp}(n)\)&lt;/span> hyperbolic monopoles.
+Throughout this paper, we comprehensively study instantons with every
+kind of continuous conformal symmetry. Examples of these objects are
+hard to come by due to non-linear constraints. However, by applying
+previous work on moduli spaces, we introduce a linear constraint, whose
+solution greatly simplifies these non-linear constraints. This
+simplification not only allows us to easily find a plethora of novel
+instantons with various continuous conformal symmetries and higher rank
+structure groups, it also provides a framework for classifying such
+symmetric objects. We also prove that the basic instanton is essentially
+the only instanton with two particular kinds of conformal symmetry.
+Additionally, we discuss the connections between instantons with
+continuous symmetries and other gauge-theoretic objects: hyperbolic and
+singular monopoles as well as hyperbolic analogues to Higgs bundles and
+Nahm data.
 &lt;/p></description></item></channel></rss>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Seminars on Christopher Lang</title><link>https://cjlang.github.io/seminars/</link><description>Recent content in Seminars on Christopher Lang</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 23 Aug 2025 07:43:39 -0230</lastBuildDate><atom:link href="https://cjlang.github.io/seminars/index.xml" rel="self" type="application/rss+xml"/><item><title>Memorial Mathematics Working Seminar</title><link>https://cjlang.github.io/seminars/workingseminar/</link><pubDate>Sat, 23 Aug 2025 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/seminars/workingseminar/</guid><description>&lt;p>&lt;strong>Fall Schedule&lt;/strong>: 2–3 pm in HH 3013&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Seminars on Christopher Lang</title><link>https://cjlang.github.io/seminars/</link><description>Recent content in Seminars on Christopher Lang</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 23 Aug 2025 07:43:39 -0230</lastBuildDate><atom:link href="https://cjlang.github.io/seminars/index.xml" rel="self" type="application/rss+xml"/><item><title>Memorial Mathematics Working Seminar</title><link>https://cjlang.github.io/seminars/workingseminar/</link><pubDate>Sat, 23 Aug 2025 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/seminars/workingseminar/</guid><description>&lt;p>&lt;strong>Fall Schedule&lt;/strong>: 1–2 pm in HH 3013&lt;/p>
 &lt;table>
 &lt;colgroup>
 &lt;col style="width: 11%" />
@@ -22,8 +22,15 @@ physics, and random matrix theory, among others. In this talk, I will
 introduce some of the components of this construction.&lt;/td>
 &lt;/tr>
 &lt;tr class="odd">
-&lt;td>&lt;strong>October 14th&lt;/strong>&lt;/td>
-&lt;td style="text-align: left;">&lt;strong>Tom Baird - TBD&lt;/strong>&lt;/td>
+&lt;td>&lt;strong>October 16th&lt;/strong>&lt;/td>
+&lt;td style="text-align: left;">&lt;strong>Tom Baird - An introduction to
+Cohomological Field Theories&lt;/strong>&lt;br />
+In this expository lecture, I will give an introduction to cohomological
+field theories in the sense of Kontsevich and Manin. Along the way, we
+will learn about moduli spaces of complex curves, Gromov-Witten theory,
+and 2D topological field theories. I hope to make my presentation
+accessible to anyone acquainted with manifolds and cohomology (singular
+or de Rham).&lt;/td>
 &lt;/tr>
 &lt;tr class="even">
 &lt;td>&lt;strong>October 21th&lt;/strong>&lt;/td>
@@ -39,7 +46,7 @@ TBD&lt;/strong>&lt;/td>
 &lt;td style="text-align: left;">&lt;strong>Graham Cox - TBD&lt;/strong>&lt;/td>
 &lt;/tr>
 &lt;tr class="odd">
-&lt;td>&lt;strong>November 11th&lt;/strong>&lt;/td>
+&lt;td>&lt;strong>November 12th&lt;/strong>&lt;/td>
 &lt;td style="text-align: left;">&lt;strong>Graham Cox - TBD&lt;/strong>&lt;/td>
 &lt;/tr>
 &lt;tr class="even">
