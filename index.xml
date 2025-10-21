@@ -20,7 +20,7 @@ recursively computes invariants of spectral curves. It has applications
 to enumerative geometry, string theory, knot theory, mathematical
 physics, and random matrix theory, among others. In this talk, I will
 introduce some of the components of this construction. Reference: &lt;a
-href="https://arxiv.org/abs/2409.06657">arXiv:2409.06657&lt;/a>&lt;/td>
+href="https://arxiv.org/abs/2409.06657">arXiv:2409.06657&lt;/a>.&lt;/td>
 &lt;/tr>
 &lt;tr class="odd">
 &lt;td>&lt;strong>October 16th&lt;/strong>&lt;/td>
@@ -32,7 +32,7 @@ will learn about moduli spaces of complex curves, Gromov-Witten theory,
 and 2D topological field theories. I hope to make my presentation
 accessible to anyone acquainted with manifolds and cohomology (singular
 or de Rham). Reference: &lt;a
-href="https://arxiv.org/abs/1712.02528">arXiv:1712.02528&lt;/a>&lt;/td>
+href="https://arxiv.org/abs/1712.02528">arXiv:1712.02528&lt;/a>.&lt;/td>
 &lt;/tr>
 &lt;tr class="even">
 &lt;td>&lt;strong>October 21th&lt;/strong>&lt;/td>
@@ -53,8 +53,14 @@ href="https://arxiv.org/abs/math/0606233">arXiv:0606233&lt;/a>.&lt;/td>
 &lt;/tr>
 &lt;tr class="odd">
 &lt;td>&lt;strong>October 28th&lt;/strong>&lt;/td>
-&lt;td style="text-align: left;">&lt;strong>Christopher Lang -
-TBD&lt;/strong>&lt;/td>
+&lt;td style="text-align: left;">&lt;strong>Christopher Lang - An introduction
+to topological recursion (part 2)&lt;/strong>&lt;br />
+Topological recursion is a construction in algebraic geometry that
+recursively computes invariants of spectral curves. In this talk, I will
+(finally) introduce topological recursion, examine the connection
+between topological recursion and Airy ideals, and explore some
+applications of this construction. Reference: &lt;a
+href="https://arxiv.org/abs/2409.06657">arXiv:2409.06657&lt;/a>.&lt;/td>
 &lt;/tr>
 &lt;tr class="even">
 &lt;td>&lt;strong>November 4th&lt;/strong>&lt;/td>
