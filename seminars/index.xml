@@ -76,7 +76,7 @@ href="https://arxiv.org/abs/1712.02528">arXiv:1712.02528&lt;/a>.&lt;/td>
 &lt;tr class="odd">
 &lt;td>&lt;strong>November 12th&lt;/strong>&lt;/td>
 &lt;td style="text-align: left;">&lt;strong>Graham Cox - Geometry of
-infinite-dimensional manifolds&lt;/strong>&lt;br />
+infinite-dimensional manifolds (part 1)&lt;/strong>&lt;br />
 This is an introductory talk on differential geometry in infinite
 dimensions. I will try to keep prerequisites to a minimum, just assuming
 familiarity with basic concepts from differential geometry and
@@ -91,8 +91,19 @@ mappings and their application to incompressible fluid flow.&lt;/td>
 &lt;/tr>
 &lt;tr class="even">
 &lt;td>&lt;strong>November 18th&lt;/strong>&lt;/td>
-&lt;td style="text-align: left;">&lt;strong>Sebastiano Argenti -
-TBD&lt;/strong>&lt;/td>
+&lt;td style="text-align: left;">&lt;strong>Graham Cox - Geometry of
+infinite-dimensional manifolds (part 2)&lt;/strong>&lt;br />
+This is an introductory talk on differential geometry in infinite
+dimensions. I will try to keep prerequisites to a minimum, just assuming
+familiarity with basic concepts from differential geometry and
+functional analysis (in particular, Banach spaces and finite-dimensional
+smooth manifolds).&lt;br />
+&lt;br />
+Many of the definitions and constructions are identical to those in
+finite dimensions, so I will instead focus on some of the subtleties and
+differences that arise in infinite dimensions. In a future talk I will
+describe some classical examples of this theory, such as manifolds of
+mappings and their application to incompressible fluid flow.&lt;/td>
 &lt;/tr>
 &lt;tr class="odd">
 &lt;td>&lt;strong>November 25th&lt;/strong>&lt;/td>
