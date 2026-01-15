@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ancillaries on Christopher Lang</title><link>https://cjlang.github.io/ancillaries/</link><description>Recent content in Ancillaries on Christopher Lang</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 30 Aug 2024 01:43:39 -0230</lastBuildDate><atom:link href="https://cjlang.github.io/ancillaries/index.xml" rel="self" type="application/rss+xml"/><item><title>Fixed points on moduli spaces</title><link>https://cjlang.github.io/ancillaries/modulispacethm/</link><pubDate>Tue, 30 Jul 2024 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/ancillaries/modulispacethm/</guid><description>&lt;p>Below we list the main results and examples from my paper “Fixed
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ancillaries on Christopher Lang</title><link>https://cjlang.github.io/ancillaries/</link><description>Recent content in Ancillaries on Christopher Lang</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 30 Aug 2024 01:43:39 -0230</lastBuildDate><atom:link href="https://cjlang.github.io/ancillaries/index.xml" rel="self" type="application/rss+xml"/><item><title>Fixed points on moduli spaces</title><link>https://cjlang.github.io/ancillaries/modulispacethm/</link><pubDate>Tue, 30 Jul 2024 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/ancillaries/modulispacethm/</guid><description>&lt;p&gt;Below we list the main results and examples from my paper “Fixed
 points of Lie group actions on moduli spaces: A tale of two actions”.
 Theorem 1.1 originally appeared in my &lt;a
-href="https://hdl.handle.net/10012/20906">thesis&lt;/a> as Theorem 1.1.1. I
+href="https://hdl.handle.net/10012/20906"&gt;thesis&lt;/a&gt; as Theorem 1.1.1. I
 discussed this result during my talk at the &lt;a
-href="https://www.youtube.com/watch?v=a5dZKpBPkxQ&amp;amp;">Geometric Models
-of Matter Conference&lt;/a> in 2024.&lt;/p>
-&lt;p>The results in this paper allow us to study &lt;a
-href="https://cjlang.github.io/ancillaries/euclidmono/">Euclidean monopoles&lt;/a>, &lt;a
-href="https://cjlang.github.io/ancillaries/hypermono/">hyperbolic monopoles&lt;/a>, and &lt;a
-href="https://cjlang.github.io/ancillaries/instantons/">instantons&lt;/a> with continuous
+href="https://www.youtube.com/watch?v=a5dZKpBPkxQ&amp;amp;"&gt;Geometric Models
+of Matter Conference&lt;/a&gt; in 2024.&lt;/p&gt;
+&lt;p&gt;The results in this paper allow us to study &lt;a
+href="https://cjlang.github.io/ancillaries/euclidmono/"&gt;Euclidean monopoles&lt;/a&gt;, &lt;a
+href="https://cjlang.github.io/ancillaries/hypermono/"&gt;hyperbolic monopoles&lt;/a&gt;, and &lt;a
+href="https://cjlang.github.io/ancillaries/instantons/"&gt;instantons&lt;/a&gt; with continuous
 symmetries. However, it is a general result that can also be used
 outside of gauge theory to easily find fixed points of Lie group actions
 on moduli spaces. These applications comprise the majority of my &lt;a
-href="https://hdl.handle.net/10012/20906">thesis&lt;/a>.&lt;/p></description></item><item><title>Instantons with continuous conformal symmetries</title><link>https://cjlang.github.io/ancillaries/instantons/</link><pubDate>Wed, 14 Aug 2024 10:43:39 -0230</pubDate><guid>https://cjlang.github.io/ancillaries/instantons/</guid><description>&lt;p>Below we list the main results and examples from my paper “Instantons
+href="https://hdl.handle.net/10012/20906"&gt;thesis&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Instantons with continuous conformal symmetries</title><link>https://cjlang.github.io/ancillaries/instantons/</link><pubDate>Wed, 14 Aug 2024 10:43:39 -0230</pubDate><guid>https://cjlang.github.io/ancillaries/instantons/</guid><description>&lt;p&gt;Below we list the main results and examples from my paper “Instantons
 with continuous conformal symmetries: Hyperbolic and singular monopoles
 and more, oh my!” Other than Proposition 3.4, this work originally
 appeared as Chapter 3 of my &lt;a
-href="https://hdl.handle.net/10012/20906">thesis&lt;/a>. I discussed this
+href="https://hdl.handle.net/10012/20906"&gt;thesis&lt;/a&gt;. I discussed this
 work during my talk at the &lt;a
-href="https://www.youtube.com/watch?v=a5dZKpBPkxQ&amp;amp;">Geometric Models
-of Matter Conference&lt;/a> in 2024.&lt;/p>
-&lt;h1 id="summary">Summary&lt;/h1>
-&lt;p>We classify the various continuous symmetries that an instanton can
+href="https://www.youtube.com/watch?v=a5dZKpBPkxQ&amp;amp;"&gt;Geometric Models
+of Matter Conference&lt;/a&gt; in 2024.&lt;/p&gt;
+&lt;h1 id="summary"&gt;Summary&lt;/h1&gt;
+&lt;p&gt;We classify the various continuous symmetries that an instanton can
 possess. We then linearize the symmetry equation for each continuous
 symmetry. By using representation theory, we can solve these linear
 equations given any representation. This makes the process of finding
@@ -30,53 +30,53 @@ easier. In fact, for some symmetries, we know every example of
 instantons with that symmetry. Additionally, instantons with a variety
 of continuous symmetries are related to other gauge theoretic objects,
 so by investigating these symmetric instantons, we can better understand
-these other objects.&lt;/p></description></item><item><title>Hyperbolic monopoles with continuous symmetries</title><link>https://cjlang.github.io/ancillaries/hypermono/</link><pubDate>Thu, 15 Aug 2024 11:43:39 -0230</pubDate><guid>https://cjlang.github.io/ancillaries/hypermono/</guid><description>&lt;p>Below we list the main results and examples from my paper “Hyperbolic
-monopoles with continuous symmetries”.&lt;/p>
-&lt;h1 id="summary">Summary&lt;/h1>
-&lt;p>By linearizing the symmetry equations and using representation
+these other objects.&lt;/p&gt;</description></item><item><title>Hyperbolic monopoles with continuous symmetries</title><link>https://cjlang.github.io/ancillaries/hypermono/</link><pubDate>Thu, 15 Aug 2024 11:43:39 -0230</pubDate><guid>https://cjlang.github.io/ancillaries/hypermono/</guid><description>&lt;p&gt;Below we list the main results and examples from my paper “Hyperbolic
+monopoles with continuous symmetries”.&lt;/p&gt;
+&lt;h1 id="summary"&gt;Summary&lt;/h1&gt;
+&lt;p&gt;By linearizing the symmetry equations and using representation
 theory, we identify many novel examples of hyperbolic monopoles with
 higher rank structure groups. In fact, in the paper, we identify many
 infinite families of spherically symmetric, hyperbolic monopoles with
 varying rank structure groups. These monopoles have interesting
 properties; in Example 2 below, we identify a spherically symmetric
-&lt;span class="math inline">\(\mathrm{Sp}(4)\)&lt;/span> hyperbolic monopole
-that vanishes nowhere.&lt;/p></description></item><item><title>Euclidean monopoles with continuous symmetries</title><link>https://cjlang.github.io/ancillaries/euclidmono/</link><pubDate>Fri, 16 Aug 2024 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/ancillaries/euclidmono/</guid><description>&lt;p>Below we list the main results and examples from my joint paper
+&lt;span class="math inline"&gt;\(\mathrm{Sp}(4)\)&lt;/span&gt; hyperbolic monopole
+that vanishes nowhere.&lt;/p&gt;</description></item><item><title>Euclidean monopoles with continuous symmetries</title><link>https://cjlang.github.io/ancillaries/euclidmono/</link><pubDate>Fri, 16 Aug 2024 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/ancillaries/euclidmono/</guid><description>&lt;p&gt;Below we list the main results and examples from my joint paper
 “Construction of Nahm data and BPS monopoles with continuous
 symmetries”, including improvements mentioned in my paper “Hyperbolic
-monopoles with continuous symmetries”.&lt;/p>
-&lt;h1 id="summary">Summary&lt;/h1>
-&lt;p>By linearizing the symmetry equations and using representation
+monopoles with continuous symmetries”.&lt;/p&gt;
+&lt;h1 id="summary"&gt;Summary&lt;/h1&gt;
+&lt;p&gt;By linearizing the symmetry equations and using representation
 theory, we identify many novel examples of Euclidean monopoles with
 higher rank structure groups and non-maximal symmetry breaking. In the
 paper, we identify many infinite families of spherically symmetric,
-Euclidean monopoles with varying rank structure groups.&lt;/p></description></item><item><title>Symmetry breaking of monopoles</title><link>https://cjlang.github.io/ancillaries/symbreak/</link><pubDate>Wed, 28 Aug 2024 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/ancillaries/symbreak/</guid><description>&lt;p>Below we list the main results and examples from Section 2.3 of my &lt;a
-href="https://hdl.handle.net/10012/20906">thesis&lt;/a>: “Symmetry
-breaking”.&lt;/p>
-&lt;h1 id="summary">Summary&lt;/h1>
-&lt;p>We identify the symmetry breaking of monopoles, part of their
+Euclidean monopoles with varying rank structure groups.&lt;/p&gt;</description></item><item><title>Symmetry breaking of monopoles</title><link>https://cjlang.github.io/ancillaries/symbreak/</link><pubDate>Wed, 28 Aug 2024 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/ancillaries/symbreak/</guid><description>&lt;p&gt;Below we list the main results and examples from Section 2.3 of my &lt;a
+href="https://hdl.handle.net/10012/20906"&gt;thesis&lt;/a&gt;: “Symmetry
+breaking”.&lt;/p&gt;
+&lt;h1 id="summary"&gt;Summary&lt;/h1&gt;
+&lt;p&gt;We identify the symmetry breaking of monopoles, part of their
 topological classification. In particular, for monopoles with structure
 group a Lie group with a classical, simple Lie algebra, we provide
 simple classifications based on eigenvalues of the Higgs field at
-infinity.&lt;/p>
-&lt;h1 id="introduction">Introduction&lt;/h1>
-&lt;p>Let &lt;span class="math inline">\(G\)&lt;/span> be a compact, connected,
-real Lie group and &lt;span class="math inline">\(M\)&lt;/span> a connected,
+infinity.&lt;/p&gt;
+&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Let &lt;span class="math inline"&gt;\(G\)&lt;/span&gt; be a compact, connected,
+real Lie group and &lt;span class="math inline"&gt;\(M\)&lt;/span&gt; a connected,
 geodesically complete three-manifold with infinite injectivity radius at
-some point. Let &lt;span class="math inline">\((\Phi,A)\)&lt;/span> be a
-monopole on &lt;span class="math inline">\(M.\)&lt;/span> That is, the pair
-satisfies the Bogomolny equations and a finite energy condition.&lt;/p></description></item><item><title>Representation theory of Lie algebras</title><link>https://cjlang.github.io/ancillaries/reptheory/</link><pubDate>Fri, 30 Aug 2024 01:43:39 -0230</pubDate><guid>https://cjlang.github.io/ancillaries/reptheory/</guid><description>&lt;p>In the following documents, we outline some lesser-known results from
+some point. Let &lt;span class="math inline"&gt;\((\Phi,A)\)&lt;/span&gt; be a
+monopole on &lt;span class="math inline"&gt;\(M.\)&lt;/span&gt; That is, the pair
+satisfies the Bogomolny equations and a finite energy condition.&lt;/p&gt;</description></item><item><title>Representation theory of Lie algebras</title><link>https://cjlang.github.io/ancillaries/reptheory/</link><pubDate>Fri, 30 Aug 2024 01:43:39 -0230</pubDate><guid>https://cjlang.github.io/ancillaries/reptheory/</guid><description>&lt;p&gt;In the following documents, we outline some lesser-known results from
 the representation theory of Lie algebras. Together, these documents
 constitute Appendix D of my &lt;a
-href="https://hdl.handle.net/10012/20906">thesis&lt;/a>. However, they are
+href="https://hdl.handle.net/10012/20906"&gt;thesis&lt;/a&gt;. However, they are
 separated here for readers interested in individual topics and for ease
-of reading.&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://cjlang.github.io/Lang_RealAndQuaternionic.pdf">Real and quaternionic
-representations&lt;/a>&lt;br />
-&lt;/li>
-&lt;li>&lt;a href="https://cjlang.github.io/Lang_DualReps.pdf">Representations and their
-duals&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cjlang.github.io/Lang_DirectSum.pdf">Representations of direct sums&lt;/a>
+of reading.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://cjlang.github.io/Lang_RealAndQuaternionic.pdf"&gt;Real and quaternionic
+representations&lt;/a&gt;&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cjlang.github.io/Lang_DualReps.pdf"&gt;Representations and their
+duals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cjlang.github.io/Lang_DirectSum.pdf"&gt;Representations of direct sums&lt;/a&gt;
 (focusing on representations of &lt;span
-class="math inline">\(\mathfrak{so}(4)\simeq\mathfrak{sp}(1)\oplus\mathfrak{sp}(1)\)&lt;/span>)&lt;/li>
-&lt;/ul></description></item></channel></rss>
+class="math inline"&gt;\(\mathfrak{so}(4)\simeq\mathfrak{sp}(1)\oplus\mathfrak{sp}(1)\)&lt;/span&gt;)&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

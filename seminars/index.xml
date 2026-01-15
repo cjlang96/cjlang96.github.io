@@ -1,30 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Seminars on Christopher Lang</title><link>https://cjlang.github.io/seminars/</link><description>Recent content in Seminars on Christopher Lang</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 23 Aug 2025 07:43:39 -0230</lastBuildDate><atom:link href="https://cjlang.github.io/seminars/index.xml" rel="self" type="application/rss+xml"/><item><title>Memorial Mathematics Working Seminar</title><link>https://cjlang.github.io/seminars/workingseminar/</link><pubDate>Sat, 23 Aug 2025 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/seminars/workingseminar/</guid><description>&lt;p>&lt;strong>Winter Schedule&lt;/strong>: TBD&lt;/p>
-&lt;table>
-&lt;colgroup>
-&lt;col style="width: 11%" />
-&lt;col style="width: 88%" />
-&lt;/colgroup>
-&lt;tbody>
-&lt;tr>
-&lt;td style="text-align: left;">&lt;strong>December 2nd&lt;/strong>&lt;/td>
-&lt;td style="text-align: left;">&lt;strong>Graham Cox - Geometry of
-infinite-dimensional manifolds (part 3)&lt;/strong>&lt;br />
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Seminars on Christopher Lang</title><link>https://cjlang.github.io/seminars/</link><description>Recent content in Seminars on Christopher Lang</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 23 Aug 2025 07:43:39 -0230</lastBuildDate><atom:link href="https://cjlang.github.io/seminars/index.xml" rel="self" type="application/rss+xml"/><item><title>Memorial Mathematics Working Seminar</title><link>https://cjlang.github.io/seminars/workingseminar/</link><pubDate>Sat, 23 Aug 2025 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/seminars/workingseminar/</guid><description>&lt;p&gt;&lt;strong&gt;Winter Schedule&lt;/strong&gt;: HH 3013 1–2 pm&lt;/p&gt;
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col style="width: 11%" /&gt;
+&lt;col style="width: 88%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;January 27th&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;December 2nd&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;Graham Cox - Geometry of
+infinite-dimensional manifolds (part 3)&lt;/strong&gt;&lt;br /&gt;
 This is an introductory talk on differential geometry in infinite
 dimensions. I will try to keep prerequisites to a minimum, just assuming
 familiarity with basic concepts from differential geometry and
 functional analysis (in particular, Banach spaces and finite-dimensional
-smooth manifolds).&lt;br />
-&lt;br />
+smooth manifolds).&lt;br /&gt;
+&lt;br /&gt;
 Many of the definitions and constructions are identical to those in
 finite dimensions, so I will instead focus on some of the subtleties and
 differences that arise in infinite dimensions. In a future talk I will
 describe some classical examples of this theory, such as manifolds of
-mappings and their application to incompressible fluid flow.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left;">&lt;strong>November 25th&lt;/strong>&lt;/td>
-&lt;td style="text-align: left;">&lt;strong>Serhii Koval - Algebra of
-symplectic reduction (part 2)&lt;/strong>&lt;br />
+mappings and their application to incompressible fluid flow.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;November 25th&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;Serhii Koval - Algebra of
+symplectic reduction (part 2)&lt;/strong&gt;&lt;br /&gt;
 In classical mechanics, symplectic (or Hamiltonian) reduction allows
 simplifying the equations of motion by considering symmetries of the
 phase space and its furter foliation into symplectic leaves. In this
@@ -36,66 +40,66 @@ discuss Hamiltonian reduction along coadjoint orbit and give the
 construction of Calogero-Moser space of Kazhdan, Kostant and Sternberg.
 This talk is based on the lecture notes of P. Etingof on Calogero-Moser
 systems. Reference: &lt;a
-href="https://arxiv.org/abs/math/0606233">arXiv:0606233&lt;/a>.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left;">&lt;strong>November 18th&lt;/strong>&lt;/td>
-&lt;td style="text-align: left;">&lt;strong>Graham Cox - Geometry of
-infinite-dimensional manifolds (part 2)&lt;/strong>&lt;br />
+href="https://arxiv.org/abs/math/0606233"&gt;arXiv:0606233&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;November 18th&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;Graham Cox - Geometry of
+infinite-dimensional manifolds (part 2)&lt;/strong&gt;&lt;br /&gt;
 This is an introductory talk on differential geometry in infinite
 dimensions. I will try to keep prerequisites to a minimum, just assuming
 familiarity with basic concepts from differential geometry and
 functional analysis (in particular, Banach spaces and finite-dimensional
-smooth manifolds).&lt;br />
-&lt;br />
+smooth manifolds).&lt;br /&gt;
+&lt;br /&gt;
 Many of the definitions and constructions are identical to those in
 finite dimensions, so I will instead focus on some of the subtleties and
 differences that arise in infinite dimensions. In a future talk I will
 describe some classical examples of this theory, such as manifolds of
-mappings and their application to incompressible fluid flow.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left;">&lt;strong>November 12th&lt;/strong>&lt;/td>
-&lt;td style="text-align: left;">&lt;strong>Graham Cox - Geometry of
-infinite-dimensional manifolds (part 1)&lt;/strong>&lt;br />
+mappings and their application to incompressible fluid flow.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;November 12th&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;Graham Cox - Geometry of
+infinite-dimensional manifolds (part 1)&lt;/strong&gt;&lt;br /&gt;
 This is an introductory talk on differential geometry in infinite
 dimensions. I will try to keep prerequisites to a minimum, just assuming
 familiarity with basic concepts from differential geometry and
 functional analysis (in particular, Banach spaces and finite-dimensional
-smooth manifolds).&lt;br />
-&lt;br />
+smooth manifolds).&lt;br /&gt;
+&lt;br /&gt;
 Many of the definitions and constructions are identical to those in
 finite dimensions, so I will instead focus on some of the subtleties and
 differences that arise in infinite dimensions. In a future talk I will
 describe some classical examples of this theory, such as manifolds of
-mappings and their application to incompressible fluid flow.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left;">&lt;strong>November 4th&lt;/strong>&lt;/td>
-&lt;td style="text-align: left;">&lt;strong>Tom Baird - An introduction to
-Cohomological Field Theories (part 2)&lt;/strong>&lt;br />
+mappings and their application to incompressible fluid flow.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;November 4th&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;Tom Baird - An introduction to
+Cohomological Field Theories (part 2)&lt;/strong&gt;&lt;br /&gt;
 Having introduced moduli spaces of curves and Gromov-Witten theory last
 week, this week I will present the abstract definition of a
 cohomological field theory, explore some of its properties, and describe
 the Givental-Teleman classification of semisimple cohomological field
 theories. Reference: &lt;a
-href="https://arxiv.org/abs/1712.02528">arXiv:1712.02528&lt;/a>.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left;">&lt;strong>October 28th&lt;/strong>&lt;/td>
-&lt;td style="text-align: left;">&lt;strong>Christopher Lang - An introduction
-to topological recursion (part 2)&lt;/strong>&lt;br />
+href="https://arxiv.org/abs/1712.02528"&gt;arXiv:1712.02528&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;October 28th&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;Christopher Lang - An introduction
+to topological recursion (part 2)&lt;/strong&gt;&lt;br /&gt;
 Topological recursion is a construction in algebraic geometry that
 recursively computes invariants of spectral curves. In this talk, I will
 (finally) introduce topological recursion, examine the connection
 between topological recursion and Airy ideals, and explore some
 applications of this construction. Reference: &lt;a
-href="https://arxiv.org/abs/2409.06657">arXiv:2409.06657&lt;/a>.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left;">&lt;strong>October 21th&lt;/strong>&lt;/td>
-&lt;td style="text-align: left;">&lt;strong>Serhii Koval - Algebra of
-symplectic reduction (part 1)&lt;/strong>&lt;br />
+href="https://arxiv.org/abs/2409.06657"&gt;arXiv:2409.06657&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;October 21th&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;Serhii Koval - Algebra of
+symplectic reduction (part 1)&lt;/strong&gt;&lt;br /&gt;
 In classical mechanics, symplectic (or Hamiltonian) reduction allows
 simplifying the equations of motion by considering symmetries of the
 phase space and its furter foliation into symplectic leaves. In this
@@ -107,36 +111,36 @@ discuss Hamiltonian reduction along coadjoint orbit and give the
 construction of Calogero-Moser space of Kazhdan, Kostant and Sternberg.
 This talk is based on the lecture notes of P. Etingof on Calogero-Moser
 systems. Reference: &lt;a
-href="https://arxiv.org/abs/math/0606233">arXiv:0606233&lt;/a>.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left;">&lt;strong>October 16th&lt;/strong>&lt;/td>
-&lt;td style="text-align: left;">&lt;strong>Tom Baird - An introduction to
-Cohomological Field Theories (part 1)&lt;/strong>&lt;br />
+href="https://arxiv.org/abs/math/0606233"&gt;arXiv:0606233&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;October 16th&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;Tom Baird - An introduction to
+Cohomological Field Theories (part 1)&lt;/strong&gt;&lt;br /&gt;
 In this expository lecture, I will give an introduction to cohomological
 field theories in the sense of Kontsevich and Manin. Along the way, we
 will learn about moduli spaces of complex curves, Gromov-Witten theory,
 and 2D topological field theories. I hope to make my presentation
 accessible to anyone acquainted with manifolds and cohomology (singular
 or de Rham). Reference: &lt;a
-href="https://arxiv.org/abs/1712.02528">arXiv:1712.02528&lt;/a>.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left;">&lt;strong>October 7th&lt;/strong>&lt;/td>
-&lt;td style="text-align: left;">&lt;strong>Christopher Lang - An introduction
-to topological recursion (part 1)&lt;/strong>&lt;br />
+href="https://arxiv.org/abs/1712.02528"&gt;arXiv:1712.02528&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;October 7th&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;Christopher Lang - An introduction
+to topological recursion (part 1)&lt;/strong&gt;&lt;br /&gt;
 Topological recursion is a construction in algebraic geometry that
 recursively computes invariants of spectral curves. It has applications
 to enumerative geometry, string theory, knot theory, mathematical
 physics, and random matrix theory, among others. In this talk, I will
 introduce some of the components of this construction. Reference: &lt;a
-href="https://arxiv.org/abs/2409.06657">arXiv:2409.06657&lt;/a>.&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align: left;">&lt;strong>September 30th&lt;/strong>&lt;/td>
-&lt;td style="text-align: left;">&lt;strong>Organizational
-Meeting&lt;/strong>&lt;br />
-We will set up a preliminary schedule of speakers for the term.&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table></description></item></channel></rss>
+href="https://arxiv.org/abs/2409.06657"&gt;arXiv:2409.06657&lt;/a&gt;.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;September 30th&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;Organizational
+Meeting&lt;/strong&gt;&lt;br /&gt;
+We will set up a preliminary schedule of speakers for the term.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description></item></channel></rss>
