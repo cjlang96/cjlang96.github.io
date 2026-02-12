@@ -1,10 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Seminars on Christopher Lang</title><link>https://cjlang.github.io/seminars/</link><description>Recent content in Seminars on Christopher Lang</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 23 Aug 2025 07:43:39 -0230</lastBuildDate><atom:link href="https://cjlang.github.io/seminars/index.xml" rel="self" type="application/rss+xml"/><item><title>Memorial Mathematics Working Seminar</title><link>https://cjlang.github.io/seminars/workingseminar/</link><pubDate>Sat, 23 Aug 2025 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/seminars/workingseminar/</guid><description>&lt;p&gt;&lt;strong&gt;Winter Schedule&lt;/strong&gt;: HH 3017 1–2 pm&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Seminars on Christopher Lang</title><link>https://cjlang.github.io/seminars/</link><description>Recent content in Seminars on Christopher Lang</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 23 Aug 2025 07:43:39 -0230</lastBuildDate><atom:link href="https://cjlang.github.io/seminars/index.xml" rel="self" type="application/rss+xml"/><item><title>Memorial Mathematics Working Seminar</title><link>https://cjlang.github.io/seminars/workingseminar/</link><pubDate>Sat, 23 Aug 2025 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/seminars/workingseminar/</guid><description>&lt;p&gt;&lt;strong&gt;Winter Schedule&lt;/strong&gt;: HH 3017 2–3 pm&lt;/p&gt;
 &lt;table&gt;
 &lt;colgroup&gt;
 &lt;col style="width: 11%" /&gt;
 &lt;col style="width: 88%" /&gt;
 &lt;/colgroup&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;February 16th&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;Christopher Lang - Nahm’s
+equations and co-Higgs bundles&lt;/strong&gt;&lt;br /&gt;
+Nahm’s equations are a reduction of the self-dual Yang–Mills equations
+to one dimension and play a central role in the Nahm transform, which
+relates magnetic monopoles to Nahm data. These equations also arise as a
+vector field on the moduli space of co-Higgs bundles on the projective
+line. In this talk, I will introduce Nahm’s equations and co-Higgs
+bundles and examine how Nahm’s equations appear in the study of co-Higgs
+bundles. I will be following Nigel Hitchin’s “Remarks on Nahm’s
+equations”. Reference: &lt;a
+href="https://arxiv.org/abs/1708.08812"&gt;arXiv:1708.08812&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;&lt;strong&gt;February 3rd&lt;/strong&gt;&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;strong&gt;Sebastiano Argenti - Polynomial
