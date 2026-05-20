@@ -1,10 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Seminars on Christopher Lang</title><link>https://cjlang.github.io/seminars/</link><description>Recent content in Seminars on Christopher Lang</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 23 Aug 2025 07:43:39 -0230</lastBuildDate><atom:link href="https://cjlang.github.io/seminars/index.xml" rel="self" type="application/rss+xml"/><item><title>Memorial Mathematics Working Seminar</title><link>https://cjlang.github.io/seminars/workingseminar/</link><pubDate>Sat, 23 Aug 2025 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/seminars/workingseminar/</guid><description>&lt;p&gt;&lt;strong&gt;Winter Schedule&lt;/strong&gt;: HH 3017 2–3 pm&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Seminars on Christopher Lang</title><link>https://cjlang.github.io/seminars/</link><description>Recent content in Seminars on Christopher Lang</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 23 Aug 2025 07:43:39 -0230</lastBuildDate><atom:link href="https://cjlang.github.io/seminars/index.xml" rel="self" type="application/rss+xml"/><item><title>Memorial Mathematics Working Seminar</title><link>https://cjlang.github.io/seminars/workingseminar/</link><pubDate>Sat, 23 Aug 2025 07:43:39 -0230</pubDate><guid>https://cjlang.github.io/seminars/workingseminar/</guid><description>&lt;p&gt;&lt;strong&gt;Spring Schedule&lt;/strong&gt;: HH 3017 1–2 pm&lt;/p&gt;
 &lt;table&gt;
 &lt;colgroup&gt;
 &lt;col style="width: 11%" /&gt;
 &lt;col style="width: 88%" /&gt;
 &lt;/colgroup&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;May 27th&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left;"&gt;&lt;strong&gt;Serhii Koval - Bialgebra
+cohomology&lt;/strong&gt;&lt;br /&gt;
+In one of our previous seminars, we explored the relationship between
+deformations of algebras and Hochschild cohomology. We established that
+obstructions to the existence of deformations reside in the third
+cohomology space, while a sufficient condition for algebra rigidity is
+provided by the vanishing of the second cohomology. A similar framework
+applies to bialgebras: crucial information regarding rigidity and
+non-existence of deformation can be deduced from their cohomology.&lt;br /&gt;
+&lt;br /&gt;
+In this talk, we will review the definition of bialgebra cohomology,
+also known as Gerstenhaber–Shack cohomology. Intuitively, this framework
+combines algebra (Hochschild) cohomology and coalgebra (Cartier)
+cohomology by constructing a certain bicomplex. We will formally define
+this cosemplicial bicomplex, as well as its truncated and graded
+versions. If time permits, we will conclude by carrying out explicit
+computations for matrix bialgebras.&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left;"&gt;&lt;strong&gt;March 30th&lt;/strong&gt;&lt;/td&gt;
 &lt;td style="text-align: left;"&gt;&lt;strong&gt;Christopher Lang - Monopoles,
